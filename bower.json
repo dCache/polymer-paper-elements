@@ -4,7 +4,7 @@
   "description": "google polymer paper elements used inside dcache-view",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dcache-elements/polymer-paper-elements.git"
+    "url": "git://github.com/dcache/polymer-paper-elements.git"
   },
   "main": "polymer-paper-elements.html",
   "dependencies": {
